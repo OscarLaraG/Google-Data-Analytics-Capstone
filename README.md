@@ -86,7 +86,7 @@ Summary:
   
 |Casual|Member|
 |------|------|
-|Prefer riding during the weekends, drop off during the weekdays.|Prefer to ride during the weekend, specifically during commute hours.||Travel longer than Annual Members in terms of ride length, but less in total trip frequency.||In terms of total trips, Annual members travel almost double compared to casual, staying consistent in ride length throughout the weekdays.|
+|Prefer riding during the weekends, drop off during the weekdays.|Prefer to ride during the weekend, specifically during commute hours.||Travel longer than Annual Members in terms of ride length, but less in total trip frequency.||In terms of total trips, Annual members travel almost double compared to casual, staying consistent in ride length throughout the weekdays.||Travel longer than Annual Members in terms of ride length, but less in total trip frequency.||In terms of total trips, Annual members travel almost double compared to casual, staying consistent in ride length throughout the weekdays.|
   
 ##  Potential Marketing Strategies
 
