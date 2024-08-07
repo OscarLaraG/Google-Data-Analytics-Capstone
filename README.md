@@ -45,14 +45,49 @@ To clean it:
    - Ride length AVG, will give us a bit more insight.
  
 ## Data Analysis and Summarizing the Data
+We can begin by checking the total trips per member.
+
+![image](https://github.com/OscarLaraG/Google-Data-Analytics-Capstone/blob/main/pictures/trips_by_member.png)
+  
+We can see that Annual members nearly double the amount of trips compared to the casual members. This is important to keep in mind, as Cyclistic generates the most money from their subcription package.
+  
+Next, we can see the type of bikes the members use and how many trips were taken in total on those bikes.  
+  
+![image](https://github.com/OscarLaraG/Google-Data-Analytics-Capstone/blob/main/pictures/rideable_type_by_member.png)
+
+We can begin to build better insights by anaylzing: 
+- Months
+- Days of the week
+- Rides per hour.
+
+
+![image](https://github.com/OscarLaraG/Google-Data-Analytics-Capstone/blob/main/pictures/rides_per_month_avg.png)
+
+__Months:__ When it comes to riders per month and their average we find that Annual members take almost double the amount of trips per month that casual riders do. However, Casual riders take much longer ride lengths compared to Annual members. We also see that during the months of April - September there is a spike in both Casual and Annual members. During these months, Annual members stay consistent in their average ride lengths, while casual members see their ride lengths double during those months where the weather is warmer (Spring).
+
+![image](https://github.com/OscarLaraG/Google-Data-Analytics-Capstone/blob/main/pictures/rides_per_day_avg.png)
+__Days of Week:__ In relation to days of the week, Casual members ride more than Annual members from Friday - Sunday. At this time, their ride length also increases. In comparison, Annual members see their trips drop during the weekends, however their avg ride length throughout the week is always consistent. Casual members average ride length drops during the weekdays (Monday - Thursday), along with the total number of trips. While there is a spike for Annual members during that period, reaching a high of almost 475K trips from Monday - Thursday!
+
+![image](https://github.com/OscarLaraG/Google-Data-Analytics-Capstone/blob/main/pictures/rides_per_hour.png)
+__Hours of the Day:__ Analyzing the hours in which rides are tken gives us better insight and we can also infure a few things:
+- For annual members, between 5AM and 9AM, they have a spike of up to 200k trips recorded. Then another spike between the hours of 5PM and 7 PM. The avg length of their ride stays consistent throughout these days.
+
+- For Casual members, there is a different story. Their spike occurs during the hours of 5PM to 7PM, but the total trips increases after 10AM. Their average ride length increases significantly during these hours too.
+
+__Inferences:__ We can infer that based on the data from months, days and hours of bike rides that Annual members ride their bikes to commute to work hence the spike of rides per hour as mentioned above. This also explains the spike after work hours (5PM). This is why their ride lenghts are so consistent throughout the week, but trips and ride length drop during the weekends.
+
+For Casual members, We can infer that they like to ride their bikes at their own time during the weekends, which explains their spikes. During the pre-work hours they dont take their bikes to work, so they have much less trips throughout the week, with their average ride lengths fluctuating.
+  
+Both riders get a spike during the warmer months, and drop off in the colder months. However, Casual riders see an increase in ride lnegth during this spike, while Annual riders keep more consistent.
+  
 
   
 Summary:
   
 |Casual|Member|
 |------|------|
-
+|Prefer riding during the weekends, drop off during the weekdays.|Spike in rides and length during the spring and summer months.||Travel longer than Annual Members in terms of ride length, but less in total trip frequency.||In terms of total trips, Annual members travel almost double compared to casual, staying consistent in ride length throughout the weekdays.|
+|Start and end their journeys near parks, museums, along the coast and other recreational sites.|Start and end their trips close to universities, residential and commercial areas.|
   
 ##  Potential Marketing Strategies
 
-# Google-Data-Analytics-Capstone
