@@ -84,9 +84,20 @@ Both riders get a spike during the warmer months, and drop off in the colder mon
   
 Summary:
   
-|Casual|Member|
-|------|------|
-|Prefer riding during the weekends, drop off during the weekdays.|Prefer to ride during the weekend, specifically during commute hours.||Travel longer than Annual Members in terms of ride length, but less in total trip frequency.||In terms of total trips, Annual members travel almost double compared to casual, staying consistent in ride length throughout the weekdays.||Travel longer than Annual Members in terms of ride length, but less in total trip frequency.||In terms of total trips, Annual members travel almost double compared to casual, staying consistent in ride length throughout the weekdays.|
+__Casual:__ 
+- Prefer to ride during the weekends, drop off during weekdays. 
+- Ride more in terms of avg ride length than members, but less in terms of trips taken.
+- Spike during warmer months in the Spring or Summer.
+
+__Annual:__ 
+- Prefer to ride during the weekdays (MON - FRI), specifically during commute hours (7AM - 9AM AND 5PM - 6PM). It can be inferred they use the bikes to get to work.
+- Also spike during warmer months, but stay consistent throughout the week while dropping off during the weekends. 
+- Travel more often that Casual members, keeping a mjuch more consistent ride length.
   
 ##  Potential Marketing Strategies
-
+After identifying differences between casual and annual riders, and making data analytic inferences, we can create marketing strategies to convert casual riders into member riders.
+1. Create a subscription for Casual members during the seasons of Spring and Summer.
+2. Casual riders can be offered weekend subscriptions, or seasonal.
+3. Casual riders also ride longer, providing a subcription where you meet a specific ride length during the weekend can unlock discounts on prices.
+4. During Spring and Summer months, create some activies or meet-ups to encourage rides.
+5. Upon subscribing to the weekend membership, you can refer a friend for 15% off their first year at Cyclistic.
