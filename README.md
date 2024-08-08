@@ -3,11 +3,11 @@ Course: [Google Data Analytics Capstone: Complete a Case Study](https://www.cour
 ## Introduction
 In this case study I will take the role of a junior Data Analyst for a company called Cyclistic. Based in Chicago, the company rents bikes to people for an affordable price, for both casual and annual members.
 
-I am tasked at analyszing the data set given to me over the course of 12 months in 2023. The data set can be found here: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html)
+I am tasked at analyzing the data set given to me over the course of 12 months in 2023. The data set can be found here: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html)
 ### Quick links:
 Data Source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html). For this project, I used 2023 data, however you can choose to explore other years.
    
-Data Visualizations: Can be found as images within the repository in their own folder. 
+Data Visualizations: Can be found as images within the repository in their own folder. The visualizations were done in Tableau.
 ### Scenario
 I am assuming to be a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, my team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, my team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve our recommendations, so they must be backed up with compelling data insights and professional data visualizations.
 ## Ask
